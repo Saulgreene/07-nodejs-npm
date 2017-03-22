@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Saulgreene/07-nodejs-npm/issues"
   },
-  "homepage": "https://github.com/Saulgreene/07-nodejs-npm#readme"
+  "homepage": "https://github.com/Saulgreene/07-nodejs-npm#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
